@@ -1,5 +1,10 @@
-# import random
 # from pprint import pprint
+
+# import cryptocode
+# import persiantools
+
+# from .functions_extra import foo
+
 
 # age = 100
 # age_seconds = age * 365 * 24 * 60 * 60
@@ -60,13 +65,3 @@ def average(a, b, name):
 
 avg = average(a=2, name="Peyman", b=5)
 print(avg)
-
-
-
-
-def get_max(numbers=[]):
-    
-    return maximum
-
-
-result = get_max([5,1,86,0,2])
