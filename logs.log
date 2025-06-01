@@ -1,0 +1,32 @@
+2025-06-01 17:54:59,645 - INFO - The script is about to start.
+2025-06-01 17:54:59,646 - DEBUG - Dividing 10 by 0.
+2025-06-01 17:54:59,646 - ERROR - Error occurred: division by zero.
+2025-06-01 17:54:59,647 - WARNING - Division by zero is not allowed.
+2025-06-01 17:54:59,647 - DEBUG - Result: 0.0.
+2025-06-01 17:54:59,647 - INFO - The script has finished.
+2025-06-01 17:56:42,808 - INFO - The script is about to start.
+2025-06-01 17:56:42,809 - DEBUG - Dividing 10 by 0.
+2025-06-01 17:56:42,810 - ERROR - Error occurred: division by zero.
+2025-06-01 17:56:42,810 - WARNING - Division by zero is not allowed.
+2025-06-01 17:56:42,811 - DEBUG - Result: 0.0.
+2025-06-01 17:56:42,811 - INFO - The script has finished.
+2025-06-01 17:56:58,301 - INFO - The script is about to start.
+2025-06-01 17:56:58,303 - DEBUG - Dividing 10 by 5.
+2025-06-01 17:56:58,303 - DEBUG - Result: 2.0.
+2025-06-01 17:56:58,304 - INFO - The script has finished.
+2025-06-01 17:57:02,584 - INFO - The script is about to start.
+2025-06-01 17:57:02,584 - DEBUG - Dividing 10 by 2.
+2025-06-01 17:57:02,585 - DEBUG - Result: 5.0.
+2025-06-01 17:57:02,585 - INFO - The script has finished.
+INFO:root:The script is about to start.
+DEBUG:root:Dividing 10 by 2.
+DEBUG:root:Result: 5.0.
+INFO:root:The script has finished.
+2025-06-01 18:06:13,304 - root -  INFO - The script is about to start.
+2025-06-01 18:06:13,305 - root -  DEBUG - Dividing 10 by 2.
+2025-06-01 18:06:13,305 - root -  DEBUG - Result: 5.0.
+2025-06-01 18:06:13,305 - root -  INFO - The script has finished.
+2025-06-01 18:06:56,288 - INFO - root - The script is about to start.
+2025-06-01 18:06:56,289 - DEBUG - root - Dividing 10 by 2.
+2025-06-01 18:06:56,289 - DEBUG - root - Result: 5.0.
+2025-06-01 18:06:56,289 - INFO - root - The script has finished.
